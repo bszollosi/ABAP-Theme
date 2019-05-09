@@ -2,17 +2,19 @@
 | space18					 |
 +------------------------------------+
 # RGB colors for 
-# Version:			1.1
+# Version:			1.3
 
 Keywords:			102-217-239
+Normal text:		239 239 239
 Background:			35-36-30
 String:				166-226-46
 Line Number:		127-127-127
+Operators:			255-177-44
 Numbers:			174-129-255	
 Comment:			127-127-127
 Selected text Bg:	40-81-125
 Selected text:		255-255-255
 
-font type: Consolas
+font type: Consolas; Fira Code Retina
 font size: 10
 LowerCase all
